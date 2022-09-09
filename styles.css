@@ -1,0 +1,10 @@
+body{
+    background-color: aqua;
+}
+form{
+   width: 60vw;
+   max-width: 500px;
+   min-width: 300px;
+   margin: 0 auto;
+   padding-bottom: 2em;
+}
